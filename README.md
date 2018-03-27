@@ -1,1 +1,0 @@
-# sqlitedemo

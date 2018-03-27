@@ -1,9 +1,14 @@
-//
-//  GenericClass.swift
-//  SqliteDemo
-//
-//  Created by shreena shah on 21/01/17.
-//  Copyright © 2017 shreena shah. All rights reserved.
-//
 
 import Foundation
+
+class Subject
+{
+    var id=0
+    var name=""
+}
+class Student
+{
+    var id=0
+    var name=""
+    var subjectsId=""
+}
